@@ -31,3 +31,6 @@ Du an doc nhiet do tu cam bien LM35 bang Arduino va gui du lieu qua Serial.
 ## Thanh vien nhom
 - NguyenDangDoanh
 - NguyenBaDuy2709
+
+## Tac gia
+[Nguyen Dang Doanh](https://nguyendangdoanh.github.io) - Sinh vien PTIT
